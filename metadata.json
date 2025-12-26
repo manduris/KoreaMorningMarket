@@ -1,0 +1,5 @@
+{
+  "name": "Korea Morning Market AI",
+  "description": "한국 주식 시장(KOSPI, KOSDAQ)의 일일 동향, 주도주 흐름, 글로벌 경제 영향을 AI가 분석하여 제공하는 대시보드입니다.",
+  "requestFramePermissions": []
+}
